@@ -52,3 +52,6 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/suyoscar11/suyoscar11/output/snake.svg" alt="Snake animation" />
+
+###
