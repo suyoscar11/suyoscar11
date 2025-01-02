@@ -2,7 +2,25 @@
 - 👀 I’m interested in Mobile Application development with Dart
 - 🌱 I’m currently learning competitive programming and Web Development
 - 📫 How to reach me 
+<div align="left">
+<div class="social-links">
+  <a href="https://www.linkedin.com/in/suyoggaire" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
+  <a href="https://discord.com/users/your-username" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
+  </a>
+  <a href="mailto:suyoscar11@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/suyoscar11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="HackerRank logo" />
+  </a>
+</div>
 
+</div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
