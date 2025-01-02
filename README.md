@@ -1,9 +1,7 @@
 
 ### <div align="center">I'm Suyog, a full-time student and a full-stack freelance developer  🚀</div>  
 
-<div align="center">
-<img src="https://www.shutterstock.com/image-vector/vector-illustration-super-professional-programmer-600nw-682987117.jpg" align="center" style="width: 50%" />
-</div>  
+ 
   
 
   
